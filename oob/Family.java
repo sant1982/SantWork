@@ -12,7 +12,7 @@ class Daughter {
     }
     public static String surname()
     {
-        return "Dhami";
+        return "Dhami Maya";
     }
 }
 
